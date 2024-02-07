@@ -14,8 +14,7 @@ python3 Canada_UrbanMorphology.py
 _____________________________________________________________________________________________________________________________________
 Section 1. Folder structure
 
-Main Folder
-
+	Main Folder
 	|- Canada_UrbanMorphology.py
 	|- geo_em.{domain}.nc
 	|- INT
