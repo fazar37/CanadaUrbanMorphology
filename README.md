@@ -16,11 +16,17 @@ Section 1. Folder structure
 
 Main Folder
 |- Canada_UrbanMorphology.py
+
 |- geo_em.{domain}.nc
+
 |- INT
+
     |- Home_BC.cpg
+    
     |- Home_BC.dbf
+    
     |- Home_BC.prj
+    
     |- Home_BC.sbn
     |- Home_BC.sbx
     |- Home_BC.shp
