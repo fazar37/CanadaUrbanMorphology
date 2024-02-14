@@ -28,7 +28,6 @@ Section 1. Folder structure
 		|- Home_BC.sbn
 		|- Home_BC.sbx
   		|- Home_BC.shp
-		|- Home_BC.shp.xml
 		|- Home_BC.shx
   	|- SHP
 		|- domain.{domain}.dbf
